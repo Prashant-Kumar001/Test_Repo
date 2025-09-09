@@ -29,3 +29,5 @@ if (require.main === module) {
         console.log('Lambda Output:', result);
     })();
 }
+
+console.log()
